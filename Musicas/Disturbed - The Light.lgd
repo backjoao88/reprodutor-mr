@@ -1,0 +1,311 @@
+{
+	"Arquivo": "Disturbed_TheLight",
+	"letra": [
+		{
+			"sequencia": 1,
+			"tempo_inicial": "00:38",
+			"tempo_final": "00:40",
+			"texto": "Like an unsung melody"
+		},
+		{
+			"sequencia": 2,
+			"tempo_inicial": "00:40",
+			"tempo_final": "00:43",
+			"texto": "The truth is waiting there for you to find it"
+		},
+		{
+			"sequencia": 3,
+			"tempo_inicial": "00:43",
+			"tempo_final": "00:46",
+			"texto": "It's not a blight but a remedy"
+		},
+		{
+			"sequencia": 4,
+			"tempo_inicial": "00:46",
+			"tempo_final": "00:50",
+			"texto": "A clear reminder of how it began"
+		},
+		{
+			"sequencia": 5,
+			"tempo_inicial": "00:50",
+			"tempo_final": "00:52",
+			"texto": "Deep inside your memory"
+		},
+		{
+			"sequencia": 6,
+			"tempo_inicial": "00:52",
+			"tempo_final": "00:55",
+			"texto": "You turned away as you struggled to find it"
+		},
+		{
+			"sequencia": 7,
+			"tempo_inicial": "00:55",
+			"tempo_final": "00:58",
+			"texto": "You heard their call as you walked away"
+		},
+		{
+			"sequencia": 8,
+			"tempo_inicial": "00:58",
+			"tempo_final": "01:01",
+			"texto": "A voice of calm but within the silence"
+		},
+		{
+			"sequencia": 9,
+			"tempo_inicial": "01:01",
+			"tempo_final": "01:04",
+			"texto": "And though it seemed an eternity"
+		},
+		{
+			"sequencia": 10,
+			"tempo_inicial": "01:04",
+			"tempo_final": "01:08",
+			"texto": "You waited, hoping it would call out again"
+		},
+		{
+			"sequencia": 11,
+			"tempo_inicial": "01:08",
+			"tempo_final": "01:10",
+			"texto": "With the shadow beckoning"
+		},
+		{
+			"sequencia": 12,
+			"tempo_inicial": "01:10",
+			"tempo_final": "01:13",
+			"texto": "Then your fears seemed to keep you blinded"
+		},
+		{
+			"sequencia": 13,
+			"tempo_inicial": "01:14",
+			"tempo_final": "01:17",
+			"texto": "You held your guard as you walked away"
+		},
+		{
+			"sequencia": 14,
+			"tempo_inicial": "01:17",
+			"tempo_final": "01:23",
+			"texto": "When you think all is forsaken"
+		},
+		{
+			"sequencia": 15,
+			"tempo_inicial": "01:23",
+			"tempo_final": "01:28",
+			"texto": "Listen to me now (all's not forsaken)"
+		},
+		{
+			"sequencia": 16,
+			"tempo_inicial": "01:28",
+			"tempo_final": "01:32",
+			"texto": "You need never feel broken again"
+		},
+		{
+			"sequencia": 17,
+			"tempo_inicial": "01:32",
+			"tempo_final": "01:36",
+			"texto": "Sometimes darkness"
+		},
+		{
+			"sequencia": 18,
+			"tempo_inicial": "01:36",
+			"tempo_final": "01:41",
+			"texto": "Can show you the light"
+		},
+		{
+			"sequencia": 19,
+			"tempo_inicial": "01:43",
+			"tempo_final": "01:46",
+			"texto": "An unforgivable tragedy"
+		},
+		{
+			"sequencia": 20,
+			"tempo_inicial": "01:46",
+			"tempo_final": "01:50",
+			"texto": "The answer isn't where you think you'd find it"
+		},
+		{
+			"sequencia": 21,
+			"tempo_inicial": "01:50",
+			"tempo_final": "01:52",
+			"texto": "Prepare yourself for a reckoning"
+		},
+		{
+			"sequencia": 22,
+			"tempo_inicial": "01:52",
+			"tempo_final": "01:56",
+			"texto": "From when your world seems to crumble again"
+		},
+		{
+			"sequencia": 23,
+			"tempo_inicial": "01:56",
+			"tempo_final": "01:58",
+			"texto": "Don't be afraid, don't turn away"
+		},
+		{
+			"sequencia": 24,
+			"tempo_inicial": "01:58",
+			"tempo_final": "02:01",
+			"texto": "You're the one who can redefine it"
+		},
+		{
+			"sequencia": 25,
+			"tempo_inicial": "02:01",
+			"tempo_final": "02:04",
+			"texto": "Don't let hope become a memory"
+		},
+		{
+			"sequencia": 26,
+			"tempo_inicial": "02:04",
+			"tempo_final": "02:07",
+			"texto": "Let the shadow permeate your mind, then"
+		},
+		{
+			"sequencia": 27,
+			"tempo_inicial": "02:07",
+			"tempo_final": "02:10",
+			"texto": "Reveal the thoughts that were tucked away"
+		},
+		{
+			"sequencia": 28,
+			"tempo_inicial": "02:10",
+			"tempo_final": "02:14",
+			"texto": "So that the door can be opened again"
+		},
+		{
+			"sequencia": 29,
+			"tempo_inicial": "02:14",
+			"tempo_final": "02:16",
+			"texto": "Within your darkest memories"
+		},
+		{
+			"sequencia": 30,
+			"tempo_inicial": "02:16",
+			"tempo_final": "02:19",
+			"texto": "Lies the answer if you dare to find it"
+		},
+		{
+			"sequencia": 31,
+			"tempo_inicial": "02:19",
+			"tempo_final": "02:22",
+			"texto": "Don't let hope become a memory"
+		},
+		{
+			"sequencia": 32,
+			"tempo_inicial": "02:23",
+			"tempo_final": "02:29",
+			"texto": "When you think all is forsaken"
+		},
+		{
+			"sequencia": 33,
+			"tempo_inicial": "02:29",
+			"tempo_final": "02:34",
+			"texto": "Listen to me now (all's not forsaken)"
+		},
+		{
+			"sequencia": 34,
+			"tempo_inicial": "02:34",
+			"tempo_final": "02:38",
+			"texto": "You need never feel broken again"
+		},
+		{
+			"sequencia": 35,
+			"tempo_inicial": "02:38",
+			"tempo_final": "02:42",
+			"texto": "Sometimes darkness"
+		},
+		{
+			"sequencia": 36,
+			"tempo_inicial": "02:42",
+			"tempo_final": "02:47",
+			"texto": "Can show you the light"
+		},
+		{
+			"sequencia": 37,
+			"tempo_inicial": "02:55",
+			"tempo_final": "02:57",
+			"texto": "Sickening, weakening"
+		},
+		{
+			"sequencia": 38,
+			"tempo_inicial": "02:58",
+			"tempo_final": "03:01",
+			"texto": "Don't let another zombie pariah consume your soul"
+		},
+		{
+			"sequencia": 39,
+			"tempo_inicial": "03:01",
+			"tempo_final": "03:03",
+			"texto": "You need strengthening, toughening"
+		},
+		{
+			"sequencia": 40,
+			"tempo_inicial": "03:04",
+			"tempo_final": "03:09",
+			"texto": "It takes a bit of dark to rekindle the fire burning in you"
+		},
+		{
+			"sequencia": 41,
+			"tempo_inicial": "03:10",
+			"tempo_final": "03:16",
+			"texto": "Ignite the fire within you"
+		},
+		{
+			"sequencia": 42,
+			"tempo_inicial": "03:23",
+			"tempo_final": "03:29",
+			"texto": "When you think all is forsaken"
+		},
+		{
+			"sequencia": 43,
+			"tempo_inicial": "03:29",
+			"tempo_final": "03:34",
+			"texto": "Listen to me now (all's not forsaken)"
+		},
+		{
+			"sequencia": 44,
+			"tempo_inicial": "03:34",
+			"tempo_final": "03:38",
+			"texto": "You need never feel broken again"
+		},
+		{
+			"sequencia": 45,
+			"tempo_inicial": "03:38",
+			"tempo_final": "03:41",
+			"texto": "Sometimes darkness"
+		},
+		{
+			"sequencia": 46,
+			"tempo_inicial": "03:42",
+			"tempo_final": "03:45",
+			"texto": "Can show you the light"
+		},
+		{
+			"sequencia": 47,
+			"tempo_inicial": "03:45",
+			"tempo_final": "03:47",
+			"texto": "Don't ignore"
+		},
+		{
+			"sequencia": 48,
+			"tempo_inicial": "03:47",
+			"tempo_final": "03:52",
+			"texto": "Listen to me now"
+		},
+		{
+			"sequencia": 49,
+			"tempo_inicial": "03:52",
+			"tempo_final": "03:56",
+			"texto": "You need never feel broken again"
+		},
+		{
+			"sequencia": 50,
+			"tempo_inicial": "03:56",
+			"tempo_final": "04:01",
+			"texto": "Sometimes darkness"
+		},
+		{
+			"sequencia": 51,
+			"tempo_inicial": "04:02",
+			"tempo_final": "04:09",
+			"texto": "Can show you the light"
+		}
+	]
+}

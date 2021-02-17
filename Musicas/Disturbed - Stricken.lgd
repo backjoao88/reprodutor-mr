@@ -1,0 +1,245 @@
+{
+	"Arquivo": "Disturbed_Stricken",
+	"letra": [
+		{
+			"sequencia": 1,
+			"tempo_inicial": "00:27",
+			"tempo_final": "00:29",
+			"texto": "You walk on like a woman in suffering"
+		},
+		{
+			"sequencia": 2,
+			"tempo_inicial": "00:29",
+			"tempo_final": "00:32",
+			"texto": "Won't even bother now, to tell me why"
+		},
+		{
+			"sequencia": 3,
+			"tempo_inicial": "00:32",
+			"tempo_final": "00:35",
+			"texto": "You come alone, letting all of us savor the moment"
+		},
+		{
+			"sequencia": 4,
+			"tempo_inicial": "00:35",
+			"tempo_final": "00:37",
+			"texto": "Leaving me broken, another time"
+		},
+		{
+			"sequencia": 5,
+			"tempo_inicial": "00:38",
+			"tempo_final": "00:40",
+			"texto": "You come on like a blood staind hurricane"
+		},
+		{
+			"sequencia": 6,
+			"tempo_inicial": "00:40",
+			"tempo_final": "00:43",
+			"texto": "Leave me alone, let me be this time"
+		},
+		{
+			"sequencia": 7,
+			"tempo_inicial": "00:43",
+			"tempo_final": "00:46",
+			"texto": "You carry on like a holy man pushing redemption"
+		},
+		{
+			"sequencia": 8,
+			"tempo_inicial": "00:46",
+			"tempo_final": "00:50",
+			"texto": "I don't want to mention, the reason I know"
+		},
+		{
+			"sequencia": 9,
+			"tempo_inicial": "00:50",
+			"tempo_final": "00:55",
+			"texto": "That I am stricken and can't let you go"
+		},
+		{
+			"sequencia": 10,
+			"tempo_inicial": "00:56",
+			"tempo_final": "01:01",
+			"texto": "When the heart is cold, there's no hope, and we know"
+		},
+		{
+			"sequencia": 11,
+			"tempo_inicial": "01:01",
+			"tempo_final": "01:07",
+			"texto": "That I am crippled by all that you've done"
+		},
+		{
+			"sequencia": 12,
+			"tempo_inicial": "01:07",
+			"tempo_final": "01:13",
+			"texto": "Into the abyss, will I run?"
+		},
+		{
+			"sequencia": 13,
+			"tempo_inicial": "01:21",
+			"tempo_final": "01:24",
+			"texto": "You don't know what your power has done to me"
+		},
+		{
+			"sequencia": 14,
+			"tempo_inicial": "01:24",
+			"tempo_final": "01:27",
+			"texto": "I want to know if I'll heal inside"
+		},
+		{
+			"sequencia": 15,
+			"tempo_inicial": "01:27",
+			"tempo_final": "01:30",
+			"texto": "I can't go on, with a holocaust about to happen"
+		},
+		{
+			"sequencia": 16,
+			"tempo_inicial": "01:31",
+			"tempo_final": "01:33",
+			"texto": "Seeing you laughing, another time"
+		},
+		{
+			"sequencia": 17,
+			"tempo_inicial": "01:33",
+			"tempo_final": "01:35",
+			"texto": "You'll never know how your face has haunted me"
+		},
+		{
+			"sequencia": 18,
+			"tempo_inicial": "01:35",
+			"tempo_final": "01:38",
+			"texto": "My very soul has to bleed this time"
+		},
+		{
+			"sequencia": 19,
+			"tempo_inicial": "01:38",
+			"tempo_final": "01:41",
+			"texto": "Another hole in the wall of my inner defenses"
+		},
+		{
+			"sequencia": 20,
+			"tempo_inicial": "01:42",
+			"tempo_final": "01:45",
+			"texto": "Leaving me breathless, the reason I know"
+		},
+		{
+			"sequencia": 21,
+			"tempo_inicial": "01:45",
+			"tempo_final": "01:51",
+			"texto": "That I am stricken and can't let you go"
+		},
+		{
+			"sequencia": 22,
+			"tempo_inicial": "01:51",
+			"tempo_final": "01:56",
+			"texto": "When the heart is cold, there's no hope, and we know"
+		},
+		{
+			"sequencia": 23,
+			"tempo_inicial": "01:56",
+			"tempo_final": "02:02",
+			"texto": "That I am crippled by all that you've done"
+		},
+		{
+			"sequencia": 24,
+			"tempo_inicial": "02:02",
+			"tempo_final": "02:08",
+			"texto": "Into the abyss, will I run?"
+		},
+		{
+			"sequencia": 25,
+			"tempo_inicial": "02:13",
+			"tempo_final": "02:19",
+			"texto": "Into the abyss, will I run?"
+		},
+		{
+			"sequencia": 26,
+			"tempo_inicial": "02:50",
+			"tempo_final": "02:53",
+			"texto": "You walk on like a woman in suffering"
+		},
+		{
+			"sequencia": 27,
+			"tempo_inicial": "02:53",
+			"tempo_final": "02:56",
+			"texto": "Won't even bother now, to tell me why"
+		},
+		{
+			"sequencia": 28,
+			"tempo_inicial": "02:56",
+			"tempo_final": "02:59",
+			"texto": "You come alone, letting all of us savor the moment"
+		},
+		{
+			"sequencia": 29,
+			"tempo_inicial": "02:59",
+			"tempo_final": "03:01",
+			"texto": "Leaving me broken, another time"
+		},
+		{
+			"sequencia": 30,
+			"tempo_inicial": "03:01",
+			"tempo_final": "03:03",
+			"texto": "You come on like a blood staind hurricane"
+		},
+		{
+			"sequencia": 31,
+			"tempo_inicial": "03:04",
+			"tempo_final": "03:07",
+			"texto": "Leave me alone, let me be this time"
+		},
+		{
+			"sequencia": 32,
+			"tempo_inicial": "03:07",
+			"tempo_final": "03:10",
+			"texto": "You carry on like a holy man pushing redemption"
+		},
+		{
+			"sequencia": 33,
+			"tempo_inicial": "03:10",
+			"tempo_final": "03:14",
+			"texto": "I don't want to mention, the reason I know"
+		},
+		{
+			"sequencia": 34,
+			"tempo_inicial": "03:14",
+			"tempo_final": "03:19",
+			"texto": "That I am stricken and can't let you go"
+		},
+		{
+			"sequencia": 35,
+			"tempo_inicial": "03:19",
+			"tempo_final": "03:24",
+			"texto": "When the heart is cold, there's no hope, and we know"
+		},
+		{
+			"sequencia": 37,
+			"tempo_inicial": "03:24",
+			"tempo_final": "03:31",
+			"texto": "That I am crippled by all that you've done"
+		},
+		{
+			"sequencia": 38,
+			"tempo_inicial": "03:31",
+			"tempo_final": "03:36",
+			"texto": "Into the abyss, will I run"
+		},
+		{
+			"sequencia": 39,
+			"tempo_inicial": "03:36",
+			"tempo_final": "03:41",
+			"texto": "Into the abyss, will I run"
+		},
+		{
+			"sequencia": 40,
+			"tempo_inicial": "03:41",
+			"tempo_final": "03:45",
+			"texto": "I can't let you go"
+		},
+		{
+			"sequencia": 41,
+			"tempo_inicial": "03:49",
+			"tempo_final": "03:59",
+			"texto": "Yes I am stricken and can't let you go"
+		}
+	]
+}

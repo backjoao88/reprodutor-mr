@@ -1,0 +1,131 @@
+{
+	"Arquivo": "CharlieBrowm_NaoUsoSapato",
+	"letra": [
+		{
+			"sequencia": 1,
+			"tempo_inicial": "00:20",
+			"tempo_final": "00:21",
+			"texto": "É assim que é..."
+		},
+		{
+			"sequencia": 2,
+			"tempo_inicial": "00:22",
+			"tempo_final": "00:26",
+			"texto": "Eu vou mudar, tudo que não me convém"
+		},
+		{
+			"sequencia": 3,
+			"tempo_inicial": "00:26",
+			"tempo_final": "00:29",
+			"texto": "Hoje tenho tudo que eu podia querer mas,"
+		},
+		{
+			"sequencia": 4,
+			"tempo_inicial": "00:29",
+			"tempo_final": "00:31",
+			"texto": "Dinheiro não é tudo tenho muito a fazer."
+		},
+		{
+			"sequencia": 5,
+			"tempo_inicial": "00:31",
+			"tempo_final": "00:34",
+			"texto": "Quem não respeita o pai, não respeita ninguém"
+		},
+		{
+			"sequencia": 6,
+			"tempo_inicial": "00:34",
+			"tempo_final": "00:36",
+			"texto": "Porque um homem de verdade vai ser pai também,"
+		},
+		{
+			"sequencia": 7,
+			"tempo_inicial": "00:36",
+			"tempo_final": "00:41",
+			"texto": "Ame seu pai, mesmo se ele for um porco capitalista."
+		},
+		{
+			"sequencia": 8,
+			"tempo_inicial": "00:41",
+			"tempo_final": "00:48",
+			"texto": "Eu não sei fazer poesia... mas que se foda!!!"
+		},
+		{
+			"sequencia": 9,
+			"tempo_inicial": "00:50",
+			"tempo_final": "00:57",
+			"texto": "Eu odeio gente chique eu não uso sapato... mas que se foda!!!"
+		},
+		{
+			"sequencia": 10,
+			"tempo_inicial": "01:20",
+			"tempo_final": "01:22",
+			"texto": "Hoje você pixa quem já te ajudou,"
+		},
+		{
+			"sequencia": 11,
+			"tempo_inicial": "01:22",
+			"tempo_final": "01:25",
+			"texto": "E vem falando mal de quem já te fortaleceu."
+		},
+		{
+			"sequencia": 12,
+			"tempo_inicial": "01:25",
+			"tempo_final": "01:27",
+			"texto": "Mas um homem de verdade não se faz só com palavras,"
+		},
+		{
+			"sequencia": 13,
+			"tempo_inicial": "01:27",
+			"tempo_final": "01:29",
+			"texto": "Você perdeu a moral e quem perdeu, perdeu."
+		},
+		{
+			"sequencia": 14,
+			"tempo_inicial": "01:30",
+			"tempo_final": "01:34",
+			"texto": "Se você pisar na bola, aí rapa você vai ser encontrado."
+		},
+		{
+			"sequencia": 15,
+			"tempo_inicial": "01:34",
+			"tempo_final": "01:38",
+			"texto": "E se você pisar na bola, aí moleque tu vai ser cobrado."
+		},
+		{
+			"sequencia": 16,
+			"tempo_inicial": "01:39",
+			"tempo_final": "01:43",
+			"texto": "Eu não sei fazer poesia... mas que se foda!!!"
+		},
+		{
+			"sequencia": 17,
+			"tempo_inicial": "01:48",
+			"tempo_final": "01:55",
+			"texto": "Eu odeio gente chique e eu não uso sapato... mas que se foda!!!"
+		},
+		{
+			"sequencia": 18,
+			"tempo_inicial": "02:01",
+			"tempo_final": "02:06",
+			"texto": "Aue, aue, aue, aue!"
+		},
+		{
+			"sequencia": 19,
+			"tempo_inicial": "02:08",
+			"tempo_final": "02:15",
+			"texto": "Everybody move! Everybody move! Everybody move, move, move, move!!!"
+		},
+		{
+			"sequencia": 20,
+			"tempo_inicial": "02:17",
+			"tempo_final": "02:24",
+			"texto": "Eu odeio hipocrisia... mas que se foda!!!"
+		},
+		{
+			"sequencia": 21,
+			"tempo_inicial": "02:27",
+			"tempo_final": "02:34",
+			"texto": "Eu odeio gente chique eu não uso sapato... mas que se foda!!!"
+		}
+	]
+}

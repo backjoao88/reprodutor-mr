@@ -1,0 +1,245 @@
+{
+	"Arquivo": "PorcaVeia-LuzDoMeuRancho",
+	"letra": [
+		{
+			"sequencia": 1,
+			"tempo_inicial": "00:18",
+			"tempo_final": "00:21",
+			"texto": "Se às vezes me esqueço em função da lida,"
+		},
+		{
+			"sequencia": 2,
+			"tempo_inicial": "00:22",
+			"tempo_final": "00:26",
+			"texto": "de dizer que a vida pra mim é você,"
+		},
+		{
+			"sequencia": 3,
+			"tempo_inicial": "00:26",
+			"tempo_final": "00:30",
+			"texto": "te abanca comigo me faz um afago,"
+		},
+		{
+			"sequencia": 4,
+			"tempo_inicial": "00:30",
+			"tempo_final": "00:34",
+			"texto": "me alcança um amargo que eu vou te dizer."
+		},
+		{
+			"sequencia": 5,
+			"tempo_inicial": "00:35",
+			"tempo_final": "00:39",
+			"texto": "Andei pelo mundo sem saber amar,"
+		},
+		{
+			"sequencia": 6,
+			"tempo_inicial": "00:39",
+			"tempo_final": "00:43",
+			"texto": "e até te encontrar eu não amei ninguém,"
+		},
+		{
+			"sequencia": 7,
+			"tempo_inicial": "00:43",
+			"tempo_final": "00:52",
+			"texto": "se acaso fui rude contigo perdoa, pois sou a pessoa que mais te quer bem."
+		},
+		{
+			"sequencia": 8,
+			"tempo_inicial": "00:52",
+			"tempo_final": "00:54",
+			"texto": "Minha confidente,"
+		},
+		{
+			"sequencia": 9,
+			"tempo_inicial": "00:54",
+			"tempo_final": "00:56",
+			"texto": "amiga e parceira,"
+		},
+		{
+			"sequencia": 10,
+			"tempo_inicial": "00:56",
+			"tempo_final": "00:58",
+			"texto": "fiel companheira,"
+		},
+		{
+			"sequencia": 11,
+			"tempo_inicial": "00:58",
+			"tempo_final": "01:01",
+			"texto": "amor de verdade,"
+		},
+		{
+			"sequencia": 12,
+			"tempo_inicial": "01:01",
+			"tempo_final": "01:03",
+			"texto": "és luz do meu rancho,"
+		},
+		{
+			"sequencia": 13,
+			"tempo_inicial": "01:03",
+			"tempo_final": "01:05",
+			"texto": "a minha querência,"
+		},
+		{
+			"sequencia": 14,
+			"tempo_inicial": "01:05",
+			"tempo_final": "01:10",
+			"texto": "da minha existência és a felicidade!"
+		},
+		{
+			"sequencia": 15,
+			"tempo_inicial": "01:10",
+			"tempo_final": "01:12",
+			"texto": "Minha confidente,"
+		},
+		{
+			"sequencia": 16,
+			"tempo_inicial": "01:12",
+			"tempo_final": "01:14",
+			"texto": "amiga e parceira,"
+		},
+		{
+			"sequencia": 17,
+			"tempo_inicial": "01:14",
+			"tempo_final": "01:16",
+			"texto": "fiel companheira,"
+		},
+		{
+			"sequencia": 18,
+			"tempo_inicial": "01:16",
+			"tempo_final": "01:18",
+			"texto": "amor de verdade,"
+		},
+		{
+			"sequencia": 19,
+			"tempo_inicial": "01:18",
+			"tempo_final": "01:20",
+			"texto": "és luz do meu rancho,"
+		},
+		{
+			"sequencia": 20,
+			"tempo_inicial": "01:20",
+			"tempo_final": "01:22",
+			"texto": "a minha querência,"
+		},
+		{
+			"sequencia": 21,
+			"tempo_inicial": "01:22",
+			"tempo_final": "01:27",
+			"texto": "da minha existência és a felicidade!"
+		},
+		{
+			"sequencia": 22,
+			"tempo_inicial": "02:03",
+			"tempo_final": "02:06",
+			"texto": "A gente não sabe da vida lá adiante,"
+		},
+		{
+			"sequencia": 23,
+			"tempo_inicial": "02:06",
+			"tempo_final": "02:11",
+			"texto": "mas acho importante pensar no depois,"
+		},
+		{
+			"sequencia": 24,
+			"tempo_inicial": "02:11",
+			"tempo_final": "02:19",
+			"texto": "por isso me aparto no teu doce abraço e em tudo que faço só penso em nós dois."
+		},
+		{
+			"sequencia": 25,
+			"tempo_inicial": "02:19",
+			"tempo_final": "02:23",
+			"texto": "Não temas eu volto junto com a saudade,"
+		},
+		{
+			"sequencia": 26,
+			"tempo_inicial": "02:23",
+			"tempo_final": "02:36",
+			"texto": "minha felicidade é estar aqui, o mundo oferece mas tenho juízo, tudo que eu preciso eu encontro em ti."
+		},
+		{
+			"sequencia": 27,
+			"tempo_inicial": "02:37",
+			"tempo_final": "02:38",
+			"texto": "Minha confidente,"
+		},
+		{
+			"sequencia": 28,
+			"tempo_inicial": "02:39",
+			"tempo_final": "02:41",
+			"texto": "amiga e parceira,"
+		},
+		{
+			"sequencia": 29,
+			"tempo_inicial": "02:41",
+			"tempo_final": "02:43",
+			"texto": "fiel companheira,"
+		},
+		{
+			"sequencia": 30,
+			"tempo_inicial": "02:43",
+			"tempo_final": "02:45",
+			"texto": "amor de verdade,"
+		},
+		{
+			"sequencia": 31,
+			"tempo_inicial": "02:46",
+			"tempo_final": "02:47",
+			"texto": "és luz do meu rancho,"
+		},
+		{
+			"sequencia": 32,
+			"tempo_inicial": "02:48",
+			"tempo_final": "02:49",
+			"texto": "a minha querência,"
+		},
+		{
+			"sequencia": 33,
+			"tempo_inicial": "02:50",
+			"tempo_final": "02:54",
+			"texto": "da minha existência és a felicidade!"
+		},
+		{
+			"sequencia": 34,
+			"tempo_inicial": "02:54",
+			"tempo_final": "02:56",
+			"texto": "Minha confidente,"
+		},
+		{
+			"sequencia": 35,
+			"tempo_inicial": "02:56",
+			"tempo_final": "02:58",
+			"texto": "amiga e parceira,"
+		},
+		{
+			"sequencia": 36,
+			"tempo_inicial": "02:58",
+			"tempo_final": "03:00",
+			"texto": "fiel companheira,"
+		},
+		{
+			"sequencia": 37,
+			"tempo_inicial": "03:00",
+			"tempo_final": "03:03",
+			"texto": "amor de verdade,"
+		},
+		{
+			"sequencia": 38,
+			"tempo_inicial": "03:03",
+			"tempo_final": "03:05",
+			"texto": "és luz do meu rancho,"
+		},
+		{
+			"sequencia": 39,
+			"tempo_inicial": "03:05",
+			"tempo_final": "03:07",
+			"texto": "a minha querência,"
+		},
+		{
+			"sequencia": 40,
+			"tempo_inicial": "03:07",
+			"tempo_final": "03:11",
+			"texto": "da minha existência és a felicidade!"
+		}
+	]
+}

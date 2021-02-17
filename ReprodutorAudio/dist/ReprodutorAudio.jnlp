@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="ReprodutorAudio.jnlp">
+  <information>
+    <title>ReprodutorAudio</title>
+    <vendor>Avell</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="ReprodutorAudio.jar" size="171125" download="eager" />
+    <jar href="lib\jl1.0.1.jar" size="105363" download="eager" />
+  </resources>
+  <applet-desc  width="800" height="600" main-class="com.javafx.main.NoJavaFXFallback"  name="ReprodutorAudio" >
+    <param name="requiredFXVersion" value="8.0+"/>
+  </applet-desc>
+  <jfx:javafx-desc  width="800" height="600" main-class="prog.views.ReprodutorAudio"  name="ReprodutorAudio" />
+  <update check="always"/>
+</jnlp>
